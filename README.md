@@ -1,19 +1,3 @@
 # Appointment.Booking.Website-Mr.Greenman
 
-# Appointment Booking Website — Mr. Greenman 🩺🌿
-
-Ini adalah aplikasi web untuk melakukan pemesanan jadwal praktik secara online. Dibuat sebagai personal project untuk melatih keterampilan dalam web development.
-
-## 🚀 Fitur Utama
-
-- 📅 Pemilihan jadwal praktik
-- 🔒 Autentikasi pengguna (login/register)
-- 📬 Konfirmasi pemesanan via email
-- 📊 Panel admin 
-
-## 🛠️ Tech Stack
-
-- **Backend**: Laravel
-- **Frontend**: Blade / HTML / CSS 
-- **Database**: MySQL 
-- **Tools**: Git, Git LFS 
+Ini adalah aplikasi web responsif untuk pemesanan layanan secara online, dirancang agar pengguna bisa dengan mudah memilih tanggal dan waktu yang mereka inginkan. Proses pemesanannya sederhana dan cepat — cukup pilih slot yang tersedia, isi informasi yang dibutuhkan, dan sistem akan langsung mengirim email konfirmasi lengkap dengan tiket digital sebagai bukti reservasi. Aplikasi ini dibangun menggunakan HTML, CSS, dan JavaScript, dengan fokus utama pada kemudahan penggunaan dan pengalaman pengguna yang mulus, baik di desktop maupun perangkat mobile. Proyek ini dirancang untuk membantu bisnis mengelola jadwal layanan dengan lebih efisien, sekaligus memberikan kenyamanan bagi pelanggan saat melakukan pemesanan.
